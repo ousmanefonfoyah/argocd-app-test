@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: swaggerapi/swagger-ui:latest
+        image: karimessouabni/hvault:latest
         ports:
         - containerPort: 8080
